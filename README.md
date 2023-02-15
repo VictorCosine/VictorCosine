@@ -16,8 +16,17 @@ Atualmente estou aprendendo e criando projetos realizando:
  
 <a href="https://www.linkedin.com/in/paulo-victor-cosine-de-godoi-557687264/"> <img src="https://seeklogo.com/images/L/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png" alt="Logo-Linkedin" width=35px height=35px />  <a/> <a href="https://www.instagram.com/michelle_paulovictor/"> <img src="https://seeklogo.com/images/I/instagram-logo-A807AD378B-seeklogo.com.png" alt="Logo-Instagram" width=35px height=35px />  <a/>
   
+  <br>
+  <br>
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCosine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  
+  <br>
+  <br
   
   
+   ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCosine&show_icons=true&theme=tokyonight)
  
   
   
