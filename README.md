@@ -1,16 +1,30 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**VictorCosine/VictorCosine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Paulo Victor, e sou um Desenvolvedor Front-End, mas estou em formação para me tornar um Dev Full-Stack em alguns meses.
+Neste momento ainda não estou trabalhando com programação, mas estou em transião de carreira e procuro uma oportunidade na área.
+Estou Cursando o terceiro período de Análise e Desenvolvimento de Sistemas, e faço parte do DevClub uma plataforma com muita didática focada na formação de Programadores Full-Stack.
+<br>
+<br>
 
-Here are some ideas to get you started:
+Atualmente estou aprendendo e criando projetos realizando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Logo-HTML" width=45px height=30px /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Logo-CSS" width=45px height=30px />  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Logo-JavaScript" width=45px height=30px /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo-React" width=45px height=30px />
+ <br>
+ <br>
+  
+ Meus Contatos:
+ 
+<a href="https://www.linkedin.com/in/paulo-victor-cosine-de-godoi-557687264/"> <img src="https://seeklogo.com/images/L/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png" alt="Logo-Linkedin" width=35px height=35px />  <a/> <a href="https://www.instagram.com/michelle_paulovictor/"> <img src="https://seeklogo.com/images/I/instagram-logo-A807AD378B-seeklogo.com.png" alt="Logo-Instagram" width=35px height=35px />  <a/>
+  
+  
+  
+ 
+  
+  
+ 
+  
+ 
+  
+  
+
+
