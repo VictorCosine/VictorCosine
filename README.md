@@ -8,7 +8,7 @@ Estou Cursando o terceiro período de Análise e Desenvolvimento de Sistemas, e 
 
 Atualmente estou aprendendo e criando projetos realizando:
 
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Logo-HTML" width=45px height=30px /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Logo-CSS" width=45px height=30px />  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Logo-JavaScript" width=45px height=30px /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo-React" width=45px height=30px />
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Logo-HTML" width=45px height=30px /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Logo-CSS" width=45px height=30px />  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Logo-JavaScript" width=45px height=30px />
  <br>
  <br>
   
