@@ -1,8 +1,8 @@
 ### Olá 👋
 
-Meu nome é Paulo Victor, e sou um Desenvolvedor Front-End, mas estou em formação para me tornar um Dev Full-Stack em alguns meses.
+Meu nome é Paulo Victor, e sou um Desenvolvedor Front-End, mas estou em formação para me tornar um Desenvolvedor Full-Stack em alguns meses.
 Neste momento ainda não estou trabalhando com programação, mas estou em transião de carreira e procuro uma oportunidade na área.
-Estou Cursando o terceiro período de Análise e Desenvolvimento de Sistemas, e faço parte do DevClub uma plataforma com muita didática focada na formação de Programadores Full-Stack.
+Estou Cursando o último período de Análise e Desenvolvimento de Sistemas, e faço parte do DevClub uma plataforma com muita didática focada na formação de Programadores Full-Stack.
 <br>
 <br>
 
@@ -14,7 +14,7 @@ Atualmente estou aprendendo e criando projetos realizando:
   
  Meus Contatos:
  
-<a href="https://www.linkedin.com/in/paulo-victor-cosine-de-godoi-557687264/"> <img src="https://seeklogo.com/images/L/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png" alt="Logo-Linkedin" width=35px height=35px />  <a/> <a href="https://www.instagram.com/michelle_paulovictor/"> <img src="https://seeklogo.com/images/I/instagram-logo-A807AD378B-seeklogo.com.png" alt="Logo-Instagram" width=35px height=35px />  <a/>
+<a href="https://www.linkedin.com/in/paulo-victor-cosine/"> <img src="https://seeklogo.com/images/L/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png" alt="Logo-Linkedin" width=35px height=35px />  <a/> <a href="https://www.instagram.com/michelle_paulovictor/"> <img src="https://seeklogo.com/images/I/instagram-logo-A807AD378B-seeklogo.com.png" alt="Logo-Instagram" width=35px height=35px />  <a/>
   
   <br>
   <br>
